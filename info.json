@@ -1,0 +1,22 @@
+{
+    "name": "Aleksandar Bulajic",
+    
+    "linkedin": "https://www.linkedin.com/in/aleksandar-bulajic-dev/",
+    "github": "https://github.com/AleksBulajic",
+    "email": "aleks.bulajic25@gmail.com",
+    "resume": "",
+    "proficientTechnologies": [
+        "Javascript",
+        "HTML",
+        "CSS"
+    ],
+    "proficientLanguages": [
+        "English",
+        "Croatian",
+        "Italian"
+    ],
+    "otherSkills": [
+     "snowboarding",
+     "guitar"
+    ]
+}
